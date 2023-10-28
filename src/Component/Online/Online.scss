@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Online{
+    padding: 50px 0;
+    .slick-next{
+        right: -10px;
+        background-color:gray;
+      
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        top: 40%;
+      }
+      .slick-next::before{
+        background-color: transparent !important;
+        content: '>' !important;
+        
+      }
+      .slick-prev::before{
+        background-color: transparent !important;
+        content: '<' !important;
+       
+      }
+        .slick-prev{
+        left: -9px !important;
+        border-radius: 50%;
+        background-color: gray !important;
+        height: 40px;
+        top: 40%;
+        width: 40px;
+        z-index: 1;
+        font-size: 20px!important;
+      }
+    
+}

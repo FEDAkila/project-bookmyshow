@@ -1,0 +1,843 @@
+{
+    "MovieList":
+        [{  "id":1,
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC43LzEwICA4MC45SyBWb3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00338629-adeyjbxpah-portrait.jpg",
+            "title":"Gadar 2: The Katha Continues",
+            "name":"Action/Drama/Period"
+            },
+            {   "id":2,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4xLzEwICAxNzAuNksgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00331686-hetavytkex-portrait.jpg",
+                "title":"Jailer",
+                "name":"Action/Drama/Thiiller"
+            },
+            {   "id":3,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC43LzEwICAyNS40SyBWb3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00364543-hwdmuuayfw-portrait.jpg",
+                "title":"DD Returns",
+                "name":"Comedy/Horror"
+            },
+            {   "id":4,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC43LzEwICAzOUsgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00361712-hqflrxzzdq-portrait.jpg",
+                "title":"OMG 2",
+                "name":"Comedy/Drama"
+            },
+            {   "id":5,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-NS44LzEwICAzNC4ySyBWb3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00354849-twjhuhesqf-portrait.jpg",
+                "title":"Bhola Shankar",
+                "name":"Action/Drama"
+            },
+            {   "id":6,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny44LzEwICAxNi44SyBWb3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00358316-eudhzatstg-portrait.jpg",
+                "title":"Meg 2: The Trench",
+                "name":"Action/Adventure/Sci-Fi"
+            },
+            {   "id":7,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC44LzEwICAxNDEuMUsgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00347867-zklzrdqjwu-portrait.jpg",
+                "title":"Oppenheimer",
+                "name":"Biography/Drama/Historical"
+            },
+            {   "id":8,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC4xLzEwICAxMTEuNksgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00312549-trnjveudsm-portrait.jpg",
+                "title":"Rocky Aur Rani Kii Prem Kahaani",
+                "name":"Comedy/Family/Romantic"
+            },
+            {      "id":9,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny40LzEwICA0MS43SyBWb3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00072466-uxewjtfjhg-portrait.jpg",
+                "title":"Barbie",
+                "name":"Adventure/Comedy/Fantasy"
+            },
+            {   "id":10,
+                "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4xLzEwICAxMTYuMksgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00329481-gdlsqkwwld-portrait.jpg",
+                "title":"Mission Impossible: Dead Reckoning - Part One",
+                "name":"Action/Adventure/Thriller"                                    
+            }],
+
+        "Liveimg":[{
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-NzUrIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/workshop-and-more-web-collection-202211140440.png"
+        
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-NyBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/kids-zone-collection-202211140440.png"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-NjArIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/comedy-shows-collection-202211140440.png"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTUrIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/music-shows-collection-202211140440.png"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-NCBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/esports-collection-202211140440.png"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTUrIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/upskill-collection-202211140440.png"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTArIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/theatre-shows-collection-202211140440.png"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-OCBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/arts-crafts-collection-202211140440.png"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MyBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/dance-classes-collection-202211140440.png"
+        }
+        
+        
+        ],
+        "Premier":[{
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00366613-spfqdzjecm-portrait.jpg",
+            "title":"It Aint Over",
+            "name":"English"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00366486-ulyztrvway-portrait.jpg",
+            "title":"Inbetween Girl",
+            "name":"English"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00365763-bjwheakkud-portrait.jpg",
+            "title":"Babylon 5: The Road Home",
+            "name":"English"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00311361-vuhyeyxwys-portrait.jpg",
+            "title":"Hotel Transylvania: Transformania",
+            "name":"English"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00347275-gzxhfwllky-portrait.jpg",
+            "title":"Spider-Man: Across The Spider-Verse",
+            "name":"English"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00366939-tbrjhyfjuv-portrait.jpg",
+            "title":"Dampyr",
+            "name":"English"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00358678-yzlxmwzpms-portrait.jpg",
+            "title":"Ruby Gillman: Teenage Kraken",
+            "name":"English"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00361570-fxcaqdmrjv-portrait.jpg",
+            "title":"Mob Psycho 100: Season 3",
+            "name":"English"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@bms_premiere_v1.png,oit-false,ofo-bottom_left:q-80/et00366371-hafcnsbfhw-portrait.jpg",
+            "title":"Medusa Deluxe",
+            "name":"English"
+        }
+         ],
+         "Online":[
+            {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxOSBBdWc%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00366723-bpsdgmmrpr-portrait.jpg",
+            "title":"Free Workshop",
+            "name":"Watch on Zoom"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-V2VkLCAzMSBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00362649-zdwdlgftyn-portrait.jpg",
+            "title":"Talk Session in Physics (Ft. Wade Allison)",
+            "name":"Watch on Zoom"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAyMCBBdWc%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00356980-vbeghrvqvz-portrait.jpg",
+            "title":"Talk Session in Physics (Ft.Dr Leonardo O.Reis)",
+            "name":"Watch on Zoom"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-RnJpLCAxOCBBdWc%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00366549-cqmvebnrrg-portrait.jpg",
+            "title":"Blind Dating 20+ Florican",
+            "name":"Watch on Zoom"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxNCBPY3Q%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00365282-btejdaksvb-portrait.jpg",
+            "title":"Kids Rapid Chess Championship by Malsar",
+            "name":"Watch on Zoom"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-V2VkLCAzMSBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00362731-uulhdlqrux-portrait.jpg",
+            "title":"Talk Session in Engineering  (Ft. Amita Kappor)",
+            "name":"Watch on Zoom"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAyNiBBdWc%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00356491-dgyqcbbfyv-portrait.jpg",
+            "title":"Blind Dating 40+ Florican",
+            "name":"Watch on Zoom"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-V2VkLCAzMSBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00362652-zymvymetap-portrait.jpg",
+            "title":"Talk Session in Architecture  (Ft. Yujie Wang)",
+            "name":"Watch on Zoom"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-V2VkLCAzMSBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00362660-cdqqzpuyuk-portrait.jpg",
+            "title":"Talk Session in Architecture (Ft. Dennis Pieprz)",
+            "name":"Watch on Zoom"
+        }
+        
+        ],
+        "Theater":[{
+            "movieName": "Gadar 2: The Katha Continues",
+            "theaterList":[
+                {
+                    "theatername":"AGS Cinemas T Nagar",
+                    "showTime": ["10.30", "14.30", "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"PVR Sathyam Cinemas Anna Nagar",
+                    "showTime": ["10.30", "14.30", "22.30","00.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Anna Cinemas Anna Saalai",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30","24.00"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Mayajaal Multiplex Kanathur",
+                    "showTime": ["14.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"IMAX Velachery",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },{
+            "movieName": "Jailer",
+            "theaterList":[
+                {
+                    "theatername":"AGS Cinemas T Nagar",
+                    "showTime": ["22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Jazz Cinemas LUXE",
+                    "showTime": ["10.30", "14.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Ganapathy Ram Theater Adayar",
+                    "showTime": ["18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Jothi Theater Alandur",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Krishnaveni Cinemas T Nagar",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },{
+            "movieName": "DD Returns",
+            "theaterList":[
+                {
+                    "theatername":"Kasi Talkies",
+                    "showTime": ["10.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Jazz Cinemas LUXE",
+                    "showTime": [ "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Ganapathy Ram Theater Adayar",
+                    "showTime": ["10.30", "14.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Mayajaal Multiplex Kanathur",
+                    "showTime": ["10.30", "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"G K Cinemas",
+                    "showTime": ["10.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },{
+            "movieName": "OMG 2",
+            "theaterList":[
+                {
+                    "theatername":"G K Cinemas",
+                    "showTime": ["7.30", "14.30", "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"PVR Sathyam Cinemas Anna Nagar",
+                    "showTime": ["7.00", "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Woodlands Cinemas",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Raj Theater",
+                    "showTime": ["10.30", "14.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Anna Cinema",
+                    "showTime": [ "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },{
+            "movieName": "Bhola Shankar",
+            "theaterList":[
+                {
+                    "theatername":"Kasi Talkies",
+                    "showTime": ["14.30", "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Raj Theater",
+                    "showTime": ["18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Anna Cinema",
+                    "showTime": ["10.30", "14.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Gokulam Cinemas",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"SB Cinemas",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },
+        {
+            "movieName": "The Trench",
+            "theaterList":[
+                {
+                    "theatername":"Udhayam Cinemas",
+                    "showTime": ["10.30", "14.30", "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Devi Cinemas",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Devi Kala Theater",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"INOX Cinemas",
+                    "showTime": ["14.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Kumaran Cinemas",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },{
+            "movieName": "Oppenheimer",
+            "theaterList":[
+                {
+                    "theatername":"PVR SPI Palazzo Chennai",
+                    "showTime": ["22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Janatha Theater",
+                    "showTime": ["10.30", "14.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Sri Vigneshwara Theater",
+                    "showTime": ["18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Rohini Silver Screens",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"National Theater",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },{
+            "movieName": "Rocky Aur Rani Kii Prem Kahaani",
+            "theaterList":[
+                {
+                    "theatername":"Albert Theatres",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"PVR Cinemas Skywalk",
+                    "showTime": [ "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Sivasakthi Cinemas",
+                    "showTime": ["10.30", "14.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Lakshmibala Theatre",
+                    "showTime": ["10.30", "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Vetrivel Cinemas",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },{
+            "movieName": "Barbie",
+            "theaterList":[
+                {
+                    "theatername":"Malliga Theatre",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"M.M Theatre",
+                    "showTime": ["10.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Batcha Theatre",
+                    "showTime": ["10.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"PVR Grand Mall Velachery",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Green Cinemas",
+                    "showTime": ["22.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        },{
+            "movieName": "Mission Impossible: Dead Reckoning - Part One",
+            "theaterList":[
+                {
+                    "theatername":"Casino Cinemas",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Remy Cinemas",
+                    "showTime": ["18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Ega Theatre",
+                    "showTime": ["10.30", "14.30", "18.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"IDream Cinemas",
+                    "showTime": ["10.30", "14.30", "22.30"],
+                    "screen": "4k DOLBY 7.1"
+                },
+                {
+                    "theatername":"Velan Theatre",
+                    "showTime": ["10.30", "14.30", "18.30"],
+                    "screen": "4k DOLBY 7.1"
+                }
+            ]
+        }
+        ],
+        "DetailsCast":[
+            {   "id":1,
+                "movieName": "Jailer",
+                "cast":[
+                        {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jason-statham-935-24-03-2017-13-50-52.jpg",
+                    "name":"Jason Statham",
+                    "title":"as Jonas Taylor"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/wu-jing-5510-1686911860.jpg",
+                    "name":"Wu Jing",
+                    "title":"Actor"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sergio-peris-mencheta-iein078341-16-09-2019-16-46-44.jpg",
+                        "name":"Sergio Peris Mencheta",
+                        "title":"as Mencheta"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sienna-guillory-2169-1682672170.jpg",
+                            "name":"Sienna Guillory",
+                            "title":"Actor"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/skyler-samuels-15229-24-03-2017-17-29-56.jpg",
+                        "name":"Skyler Samuels",
+                        "title":"Actor"
+                    },
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cliff-curtis-462-02-02-2018-01-25-37.jpg",
+                        "name":"Cliff Curtis",
+                        "title":"as James 'Mac' Mackreides"
+                    }
+                ]
+               
+
+                
+            },
+            {   "id":2,
+                "movieName": "Gadar 2: The Katha Continues",
+                "cast":[
+                        {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jason-statham-935-24-03-2017-13-50-52.jpg",
+                    "name":"Jason Statham",
+                    "title":"as Jonas Taylor"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/wu-jing-5510-1686911860.jpg",
+                    "name":"Wu Jing",
+                    "title":"Actor"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sergio-peris-mencheta-iein078341-16-09-2019-16-46-44.jpg",
+                        "name":"Sergio Peris Mencheta",
+                        "title":"as Mencheta"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sienna-guillory-2169-1682672170.jpg",
+                            "name":"Sienna Guillory",
+                            "title":"Actor"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/skyler-samuels-15229-24-03-2017-17-29-56.jpg",
+                        "name":"Skyler Samuels",
+                        "title":"Actor"
+                    },
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cliff-curtis-462-02-02-2018-01-25-37.jpg",
+                        "name":"Cliff Curtis",
+                        "title":"as James 'Mac' Mackreides"
+                    }
+                
+                ]
+            },
+            {   "id":3,
+                "movieName": "DD Returns",
+                "cast":[
+                        {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jason-statham-935-24-03-2017-13-50-52.jpg",
+                    "name":"Jason Statham",
+                    "title":"as Jonas Taylor"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/wu-jing-5510-1686911860.jpg",
+                    "name":"Wu Jing",
+                    "title":"Actor"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sergio-peris-mencheta-iein078341-16-09-2019-16-46-44.jpg",
+                        "name":"Sergio Peris Mencheta",
+                        "title":"as Mencheta"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sienna-guillory-2169-1682672170.jpg",
+                            "name":"Sienna Guillory",
+                            "title":"Actor"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/skyler-samuels-15229-24-03-2017-17-29-56.jpg",
+                        "name":"Skyler Samuels",
+                        "title":"Actor"
+                    },
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cliff-curtis-462-02-02-2018-01-25-37.jpg",
+                        "name":"Cliff Curtis",
+                        "title":"as James 'Mac' Mackreides"
+                    }
+                ]
+               
+            },
+            {   "id":4,
+                "movieName": "OMG 2",
+                "cast":[
+                        {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jason-statham-935-24-03-2017-13-50-52.jpg",
+                    "name":"Jason Statham",
+                    "title":"as Jonas Taylor"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/wu-jing-5510-1686911860.jpg",
+                    "name":"Wu Jing",
+                    "title":"Actor"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sergio-peris-mencheta-iein078341-16-09-2019-16-46-44.jpg",
+                        "name":"Sergio Peris Mencheta",
+                        "title":"as Mencheta"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sienna-guillory-2169-1682672170.jpg",
+                            "name":"Sienna Guillory",
+                            "title":"Actor"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/skyler-samuels-15229-24-03-2017-17-29-56.jpg",
+                        "name":"Skyler Samuels",
+                        "title":"Actor"
+                    },
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cliff-curtis-462-02-02-2018-01-25-37.jpg",
+                        "name":"Cliff Curtis",
+                        "title":"as James 'Mac' Mackreides"
+                    }
+                ]
+                },
+            {   "id":5,
+                "movieName": "Bhola Shankar",
+                "cast":[
+                    
+                        {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jason-statham-935-24-03-2017-13-50-52.jpg",
+                    "name":"Jason Statham",
+                    "title":"as Jonas Taylor"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/wu-jing-5510-1686911860.jpg",
+                    "name":"Wu Jing",
+                    "title":"Actor"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sergio-peris-mencheta-iein078341-16-09-2019-16-46-44.jpg",
+                        "name":"Sergio Peris Mencheta",
+                        "title":"as Mencheta"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sienna-guillory-2169-1682672170.jpg",
+                            "name":"Sienna Guillory",
+                            "title":"Actor"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/skyler-samuels-15229-24-03-2017-17-29-56.jpg",
+                        "name":"Skyler Samuels",
+                        "title":"Actor"
+                    },
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cliff-curtis-462-02-02-2018-01-25-37.jpg",
+                        "name":"Cliff Curtis",
+                        "title":"as James 'Mac' Mackreides"
+                    }
+                ]
+               
+            },
+            {   "id":6,
+                "movieName": "Meg 2: The Trench",
+                "cast":[
+                        {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jason-statham-935-24-03-2017-13-50-52.jpg",
+                    "name":"Jason Statham",
+                    "title":"as Jonas Taylor"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/wu-jing-5510-1686911860.jpg",
+                    "name":"Wu Jing",
+                    "title":"Actor"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sergio-peris-mencheta-iein078341-16-09-2019-16-46-44.jpg",
+                        "name":"Sergio Peris Mencheta",
+                        "title":"as Mencheta"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sienna-guillory-2169-1682672170.jpg",
+                            "name":"Sienna Guillory",
+                            "title":"Actor"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/skyler-samuels-15229-24-03-2017-17-29-56.jpg",
+                        "name":"Skyler Samuels",
+                        "title":"Actor"
+                    },
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cliff-curtis-462-02-02-2018-01-25-37.jpg",
+                        "name":"Cliff Curtis",
+                        "title":"as James 'Mac' Mackreides"
+                    }
+                ]
+               
+            },
+            {   "id":7,
+                "movieName": "Oppenheimer",
+                "cast":[
+                        {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cillian-murphy-455-24-03-2017-12-58-10.jpg",
+                    "name":"Cillian Murphy",
+                    "title":"as J.Robert Oppenheimer"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/emily-blunt-4134-24-03-2017-12-41-22.jpg",
+                    "name":"Emily Blunt",
+                    "title":"as Katherine 'Kitty..."} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/matt-damon-1415-24-03-2017-12-31-21.jpg",
+                        "name":"Matt Damon",
+                        "title":"as Gen. Leslie Groves jr."} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/robert-downey-jr-1902-17-12-2018-02-26-59.jpg",
+                            "name":"Robert Downey Jr.",
+                            "title":"as Lewis Strauss"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/florence-pugh-1080099-29-06-2017-00-03-48.jpg",
+                        "name":"Florence Pugh",
+                        "title":"as Jean Tatlock"
+                    }
+                ]
+               
+            },
+            {
+                "id":8,
+                "movieName": "Rocky Aur Rani Kii Prem Kahaani",
+                "cast":
+                    [
+                        {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ranveer_singh_19858_26-07-2016_04-59-37.jpg",
+                    "name":"Ranveer Singh",
+                    "title":"as Rocky"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/alia-bhatt-21065-1685013962.jpg",
+                    "name":"Alia Bhatt",
+                    "title":"as Rani"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/dharmendra-582-24-03-2017-12-29-21.jpg",
+                        "name":"Dharmendra",
+                        "title":"Actor"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jaya-bachchan-949-26-09-2017-04-20-20.jpg",
+                            "name":"Jaya Bachchan",
+                            "title":"Actor"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shabana-azmi-2087-07-10-2017-01-20-12.jpg",
+                        "name":"Shabana Azmi",
+                        "title":"Actor"
+                    }
+                ]
+              
+
+            },
+            {   "id":9,
+                "movieName": "Barbie",
+                "cast":[
+                        {"pic":" https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/margot-robbie-38083-28-01-2019-10-59-34.jpg ",
+                    "name":"Margot Robbie",
+                    "title":"as Barbie"},
+                    {
+
+                    "pic":  "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ryan-gosling-25971-24-03-2017-17-59-22.jpg",
+                    "name":"Ryan Gosling",
+                    "title":"as ken"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/america-ferrera-7112-18-03-2019-02-58-53.jpg",
+                        "name":"America Ferrera",
+                        "title":"as Gloria"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/emma-mackey-2026983-1680678827.jpg",
+                            "name":"Emma Mackey",
+                            "title":"as Nobel Prize Winning Physicist Barbie"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kate-mckinnon-1063320-24-03-2017-17-32-52.jpg",
+                        "name":"Kate MCkinnon",
+                        "title":"as `Always in the Splits` Barbie"
+                    } ,{
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/simu-liu-2006167-13-05-2021-04-13-21.jpg",
+                    "name":"simu Liu",
+                    "title":"as ken"}
+                ]
+             
+            },
+            {
+                "id":10,
+                "movieName": "Mission Impossible: Dead Reckoning - Part One",
+                "cast":[
+                     {"pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/tom-cruise-2384-24-03-2017-17-29-20.jpg",
+                    "name":"Tom Cruise",
+                    "title":"as Ethan Hunt"},
+                    {
+
+                    "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/hayley-atwell-16182-24-03-2017-17-54-40.jpg",
+                    "name":"Hayley Atwell",
+                    "title":"as Grace"} ,
+                    {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ving-rhames-2488-24-03-2017-12-38-01.jpg",
+                        "name":"Ving Rhames",
+                        "title":"as Luther"} ,
+                     {
+                            "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/simon-pegg-10342-24-03-2017-12-33-05.jpg",
+                            "name":"Simon Pegg",
+                            "title":"as Benji Dunn"
+                     },
+                     {
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rebecca-ferguson-1048045-24-03-2017-16-12-13.jpg",
+                        "name":"Rebecca Ferguson",
+                        "title":"as ilsa Faust"
+                    } ,{
+                        "pic":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vanessa-kirby-1048946-22-07-2019-03-24-47.jpg",
+                    "name":"Vanessa Kirby",
+                    "title":"as White Widow"}
+                ]
+               
+            }
+
+
+        ],
+        "Back":
+        [{  "id":1,
+            "img":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/gadar-2-et00338629-1688724591.jpg",
+            "title":"Gadar 2: The Katha Continues"
+            },
+            {   "id":2,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/jailer-et00331686-1664432415.jpg",
+                "title":"Jailer"
+               
+            },
+            {   "id":3,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dd-returns-et00364543-1689578736.jpg",
+                "title":"DD Returns"
+            },
+            {   "id":4,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/omg-2-et00361712-1689772587.jpg",
+                "title":"OMG 2"
+            },
+            {   "id":5,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/bholaa-shankar-et00354849-1687836860.jpg",
+                "title":"Bhola Shankar"
+                
+            },
+            {   "id":6,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/meg-2-the-trench-et00358316-1694408319.jpg",
+                "title":"Meg 2: The Trench"
+            },
+            {   "id":7,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/oppenheimer-et00347867-1683533414.jpg",
+                "title":"Oppenheimer"
+            },
+            {   "id":8,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/rocky-aur-rani-kii-prem-kahaani-et00312549-1690269122.jpg",
+                "title":"Rocky Aur Rani Kii Prem Kahaani"
+            },
+            {      "id":9,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/barbie-et00072466-1693977831.jpg",
+                "title":"Barbie"
+                
+            },
+            {   "id":10,
+                "img":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/mission-impossible-dead-reckoning--part-one-et00329481-1688284554.jpg",
+                "title":"Mission Impossible: Dead Reckoning - Part One"                 
+            }]
+            }
+

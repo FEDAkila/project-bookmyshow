@@ -1,0 +1,33 @@
+import React, { useEffect, useState } from "react";
+ const buses = [ { booked: [2, 3, 4, 5], // total: 100,
+ },]; 
+ const noOfSeats = 3;
+  const Home = () => { const [seats, setSeats]: any = useState({}); 
+  const [selectedSeats, setSelectedSeats]: any = useState([]);
+   useEffect(() => { getSeats(); }, []); 
+   const getSeats = () => { let obj = {}; ["A", "B", "C", "D"].forEach((row: any) => { 
+    let arr: any = [];
+     Array.from(Array(30)).forEach((c, i) => { arr.push({ num: i + 1, row: row, selected: false, isBooked: buses[0].booked.includes(i + 1), }); });
+      obj = { ...obj, [row]: arr }; });
+       console.log("obj", obj); setSeats(obj); }; 
+       const handleSelect = ( num: any, row: any, tempSeats: any, arr: any, count: any ) => { 
+        console.log("tempSeats", tempSeats, "selectedSeats", selectedSeats?.length);
+        if (count === 0) { setSelectedSeats([...tempSeats]); return; } 
+        // console.log("arr", arr); const temp = arr.map((a: any, i: any) => { if (num === a.num && !a.isBooked) { return { ...a, selected: !a.selected, }; } else return a; });
+         if (selectedSeats?.length >= 3)
+          { tempSeats = temp?.filter((c: any) => c.selected); }
+           else { tempSeats = [...selectedSeats, ...temp?.filter((c: any) => c.selected)]; } 
+           
+         if (num === 8 || num === 22) { setSelectedSeats([...tempSeats]); return; } 
+
+         handleSelect(num + 1, row, tempSeats, temp, count - 1); };
+
+          const handleBook =
+           () => { const temp = [...seats].map((s) => { return { ...s, selected: false, isBooked: s.isBooked || s.selected, }; }); }; 
+         console.log("selectedSeats", selectedSeats); 
+
+         return ( <div> Seats: <div> {Object.keys(seats)?.map((row: any, index: number) => ( <div style={{ display: "flex", flexDirection: "row", flexWrap: "wrap" }} > {seats[row]?.map((c: any, i: number) => ( <div key={i} 
+         onClick={() => !c.isBooked && handleSelect( c.num, row, selectedSeats?.length === noOfSeats ? [] : [...selectedSeats], [...seats[row]], selectedSeats?.length !== noOfSeats ? noOfSeats - selectedSeats?.length : noOfSeats ) }
+          style={{ marginRight: c.num === 8 || c.num === 22 ? "3rem" : "10px", marginBottom: "10px", width: "20px", height: "20px", background: selectedSeats ?.filter((r: any) => r.row === row) ?.some(({ num }: any) => num === c.num) ? "green" : "red", }} >
+          </div> ))} </div> ))} </div> <button onClick={() => handleBook()}>Proceed</button> </div> ); };
+           export default Home

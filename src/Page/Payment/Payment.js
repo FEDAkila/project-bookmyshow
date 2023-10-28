@@ -1,0 +1,207 @@
+import React, { useState } from "react";
+import Accordion from "@mui/material/Accordion";
+import AccordionSummary from "@mui/material/AccordionSummary";
+import AccordionDetails from "@mui/material/AccordionDetails";
+import Typography from "@mui/material/Typography";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import { Grid } from "@mui/material";
+import { Button } from "@mui/material";
+import "./Payment.scss";
+ import theater from "../../Component/Img/theater.png";
+import { useSelector } from "react-redux";
+import { useNavigate, useSearchParams } from "react-router-dom";
+// import { ref, set } from "firebase/database";
+// import { db } from "../Firsebase/Firebase";
+// import { uid } from "uid";
+import { useEffect } from "react";
+export const Payment = () => {
+  const state = useSelector(({ sample}) => sample);
+  const [param]=useSearchParams()
+  const count=param.get('count')
+  console.log(count)
+  console.log(state.name)
+  var base = count * 30;
+  var gst =count * 30 * (18 / 100);
+  const [selectOption, setSelectionOption] = useState(false);
+  const navigate = useNavigate();
+  const diomand = 190 * count;
+  const [removeAmount, setRemoveAmount] = useState(count * 1);
+  const remove = (e) => {
+    setRemoveAmount(0);
+    e.target.classList.add("removed");
+  };
+  const amountPayable = (base + gst + removeAmount + diomand).toFixed(2);
+  const handlingPayNow = () => {
+   
+    navigate("/Success");
+  };
+  useEffect(()=>{
+    window.scrollTo(0,0)
+  })
+ 
+
+  return (
+    <section className="payment-section">
+      <div className="payment-container">
+        <div className="payment-row">
+          <h2>BOOKING SUMMARY</h2>
+          <ul className="payment-details">
+            <li>
+              <div>
+                DIAMOND - {state.selectSeats.toString()} 
+               ( Tickets )<br></br>
+              </div>
+              <div>Rs. {diomand.toFixed(2)}</div>
+            </li>
+            <li>
+              <div style={{ width: "100%" }}>
+                <Accordion style={{ boxShadow: "none" }}>
+                  <AccordionSummary
+                    style={{ padding: 0 }}
+                    aria-controls="panel1a-content"
+                    id="panel1a-header"
+                  >
+                    <ExpandMoreIcon
+                      style={{
+                        border: "1px solid #ccc",
+                        borderRadius: "50%",
+                        marginRight: "8px",
+                        width: "auto",
+                      }}
+                    />
+                    <Typography className="payBill" style={{ width: "95%" }}>
+                      <span>Convenience fees</span>
+                      <span>Rs.{base + gst}</span>
+                    </Typography>
+                  </AccordionSummary>
+                  <AccordionDetails>
+                    <Grid className="conv">
+                      <div>Base Amount</div>
+                      <div>Rs.{base.toFixed(2)}</div>
+                    </Grid>
+                    <Grid className="conv">
+                      <div>Integrated GST (IGST) @ 18%</div>
+                      <div>Rs.{gst.toFixed(2)}</div>
+                    </Grid>
+                  </AccordionDetails>
+                </Accordion>
+              </div>
+            </li>
+            <li className="payment-total">
+              <div>Sub total</div>
+              <div>Rs.{(base + gst + diomand).toFixed(2)}</div>
+            </li>
+            <li className="payment-contribution">
+              <div>
+                Contribution to BookASmile<br></br>
+                <span className="size">(₹1 per ticket has been added)</span>
+                <br></br>
+                <span className="size view">View T&C</span>
+              </div>
+              <div>
+                Rs.{removeAmount.toFixed(2)}
+                <br></br>
+                <span className="color" onClick={(e) => remove(e)}>
+                  Remove
+                </span>
+              </div>
+            </li>
+            <li>
+              <div style={{ color: "gray", fontSize: "13px" }}>
+                Your current state is<span className="color"> Tamil Nadu</span>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div className="payment-amount">
+          <div>Amount Payable</div>
+          <div>Rs. {amountPayable}</div>
+        </div>
+        <div className="ticket-type">
+          <h1>SELECT TICKET TYPE</h1>
+          <div className="ticket-row">
+            <div className="ticket-box">
+              <div className="ticket-input1">
+                <input
+                  type="radio"
+                  name="ticket"
+                  defaultChecked
+                  onChange={(e) => setSelectionOption(false)}
+                />
+              </div>
+              <div className="ticket-input">
+                <div style={{ position: "relative" }}>
+                  <i className="las la-mobile" style={{ fontSize: "35px" }}></i>
+                  <i
+                    className="bi bi-ticket-fill money-icon"
+                    style={{ color: "yellow", fontSize: "20px" }}
+                  ></i>
+                  <i
+                    className="bi bi-ticket money-icon"
+                    style={{ fontSize: "20px" }}
+                  ></i>
+                </div>
+                <div
+                  style={{
+                    marginLeft: "15px",
+                    display: "flex",
+                    alignItems: "center",
+                  }}
+                >
+                  M-Ticket
+                </div>
+              </div>
+            </div>
+            <div className="ticket-box">
+              <div className="ticket-input1">
+                <input
+                  type="radio"
+                  name="ticket"
+                  style={{ color: "red" }}
+                  onChange={(e) => setSelectionOption(true)}
+                />
+              </div>
+              <div className="ticket-input">
+                <div style={{ display: "flex", alignItems: "center" }}>
+                  <img src={theater} alt="lkjfkjf" />
+                </div>
+                <div style={{ marginLeft: "15px" }}>Box Office Pickup</div>
+              </div>
+            </div>
+          </div>
+          {selectOption ? (
+            <p
+              className="size"
+              style={{ textAlign: "center", marginTop: "12px" }}
+            >
+              Select this option to pick your tickets from Box Office.
+            </p>
+          ) : (
+            <p
+              className="size"
+              style={{ textAlign: "center", marginTop: "12px" }}
+            >
+              Show the m-tcket QR Code on your mobile to enter the cinema,
+            </p>
+          )}
+        </div>
+        <div className="text">
+          <p>
+            By proceeding, I express my consent to complete this transaction.
+          </p>
+          <Button
+            variant="contained"
+            style={{ textTransform: "none", justifyContent: "space-between" }}
+            className="total-btn"
+            sx={{ p: 2 }}
+            onClick={(e) => handlingPayNow(e)}
+          >
+            TOTAL: Rs. {amountPayable}
+            <span className="proceed">Proceed</span>
+          </Button>
+        </div>
+      </div>
+    </section>
+  );
+};
+
